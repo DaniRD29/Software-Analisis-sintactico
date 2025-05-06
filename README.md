@@ -8,4 +8,4 @@ Ya una vez que lo hayamos ejecutado, observaremos que en la salida de la termina
 Quiero redactar cómo funciona la identificación de palabras clave, la variable constante RESERVED, contiene dichas palabras que son “reservadas para el lenguaje”, por otro lado, la función t_ID(), con ayuda de la expresión regular puede determinar las palabras clave que han sido determinadas anteriormente y los agrega a la lista para su impresión en la pantalla. 
 
 Link de presentación: 
-
+https://youtu.be/zOuEvGqHaAc?si=aAsZb6UQGJo4G_n6 
